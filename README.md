@@ -141,3 +141,11 @@ Change the kernel to `Python (guillaume)` each time you open a notebook.
 By the end of the course, each group should have a documented modelling workflow and a short project presentation answering:
 
 **How well can Cell Painting profiles predict our chosen cytotoxicity or biological activity endpoint, and what does that tell us about the phenotype captured by the assay?**
+
+
+## License
+
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a
+Creative Commons Attribution 4.0 International License.
